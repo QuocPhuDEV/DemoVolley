@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VolleyImageCacheExample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_StringRequest">String Request</string>
+    <string name="button_JSonRequest">JSon Request</string>
+    <string name="button_ImageRequest">Image Request</string>
+    <string name="button_JSonObj_Request">JSon Object Request</string>
+    <string name="button_JSonArray_Request">JSon Array Request</string>
+    <string name="title_activity_string_request">StringRequestActivity</string>
+</resources>
